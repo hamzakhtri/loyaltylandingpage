@@ -649,8 +649,8 @@ section.why-choose ul.theme-check-list li {
 
 @media only screen and (max-width: 375px) {
     .hero-content h1 .secondary-text {
-        font-size: 30px;
-        line-height: 42px;
+        font-size: 28px;
+        line-height: 40px;
     }
 
     .hero-content h1 {
